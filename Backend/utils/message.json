@@ -1,0 +1,47 @@
+ {
+	"SUCCESS":"Success",
+	"FAILED":"Failed",
+	"GENERAL": "Something Went Wrong!!, Please Try Again.",
+
+	"CATEGORY_ADDED_SUCCESSFULLY": "Category added successfully.",
+	"CATEGORY_ALREADY_EXISTS": "Category already exists.",
+	"CATEGORY_NOT_FOUND": "Category not found.",
+	"CATEGORY_DELETED_SUCCESSFULLY": "Category deleted successfully.",
+
+	"WAREHOUSE_ADDED_SUCCESSFULLY": "Warehouse added successfully.",
+	"WAREHOUSE_UPDATED_SUCCESSFULLY": "Warehouse updated successfully.",
+	"WAREHOUSE_ALREADY_EXISTS": "Warehouse already exists.",
+	"WAREHOUSE_NOT_FOUND": "Warehouse not found.",
+	"WAREHOUSE_DELETED_SUCCESSFULLY": "Warehouse deleted successfully.",
+	
+	"PRODUCT_ALREADY_EXISTS": "Product with provided product number is already exists.",
+	"PRODUCT_ADDED_SUCCESSFULLY": "Product added successfully.",
+	"PRODUCT_NOT_FOUND": "Product not found.",
+	"PRODUCT_DELETED_SUCCESSFULLY": "Product deleted successfully.",
+	"PRODUCT_UPDATED_SUCCESSFULLY": "Product updated successfully.",
+
+    "USER_REGISTERED_SUCCESSFULLY" : "User registered successfully.",
+	"USER_ALREADY_EXISTS" : "User already exists.",
+	"USER_NOT_FOUND": "User not found Please Register Yourself.",
+	"USER_EMAIL_EXISTS": "User email Already Exists.",
+
+	"WAREHOUSE_PRODUCT_NOT_FOUND": "Warehouse Product not found.",
+	"WAREHOUSE_PRODUCT_ALREADY_EXISTS": "Warehouse Product already exists.",
+	"WAREHOUSE_PRODUCT_ADDED_SUCCESSFULLY": "Warehouse Product added successfully.",
+	"WAREHOUSE_PRODUCT_UPDATED_SUCCESSFULLY": "Warehouse Product updated successfully.",
+	"WAREHOUSE_PRODUCT_DELETED_SUCCESSFULLY": "Warehouse Product deleted successfully.",
+
+	"HISTORY_NOT_FOUND": "No history found.",
+	"HISTORY_DELETED_SUCCESSFULLY": "History deleted successfully.",
+
+    "SIGNUP_SUCCESS": "Sign Up Successfully.",
+	"LOGIN_SUCCESS":"Log In Successfully.",
+
+	"INVALID_USER": "Invalid user.",
+	"INVALID_TOKEN": "Inavlid Token.",
+	"INVALID_TOKEN_TYPE": "Inavlid Token Type.",
+	"INVALID_PASSWORD":"Password Doesn't Match.",
+	"TOKEN_EXPIRED": "Token is expired!",
+	"NOT_AUTHORIZED":"You Are Not Authorized.",
+	"NOT_FOUND": "Not Found."
+}
